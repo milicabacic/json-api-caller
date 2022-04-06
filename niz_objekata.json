@@ -1,0 +1,42 @@
+[
+  {
+    "place": "Belgrade",
+    "observation_time": "11:50 AM",
+    "temperature": 10.3,
+    "wind_speed": 3.2,
+    "pressure": 1011.0,
+    "feelslike": 8.0,
+    "visibility": 11.5,
+    "uv_index": 4.5
+  },
+  {
+    "place": "Novi Sad",
+    "observation_time": "10:45 AM",
+    "temperature": 12.0,
+    "wind_speed": 4.1,
+    "pressure": 1003.0,
+    "feelslike": 11.0,
+    "visibility": 11.0,
+    "uv_index": 4.0
+  },
+  {
+    "place": "Nis",
+    "observation_time": "8:30 PM",
+    "temperature": 17.0,
+    "wind_speed": 1.1,
+    "pressure": 1017.0,
+    "feelslike": 16.0,
+    "visibility": 12.0,
+    "uv_index": 5.0
+  },
+  {
+    "place": "Kragujevac",
+    "observation_time": "4:30 PM",
+    "temperature": 22.0,
+    "wind_speed": 1.7,
+    "pressure": 1016.0,
+    "feelslike": 23.0,
+    "visibility": 14.0,
+    "uv_index": 5.5
+  }
+]
